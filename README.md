@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Programador em estudos segue nas redes abaixo!
+  ### Iniciando estudos em programação segue nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/feh.valente" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
